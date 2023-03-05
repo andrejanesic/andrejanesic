@@ -26,4 +26,4 @@ Currently completing my Comp Sci Bachelor's degree, with a focus on Data Science
 
 <h3>Check out all of my projects below 👇</h3>
 
-If you want to work together, [get in touch here.](https://andrejanesic.com)
+[My public repos](https://github.com/andrejanesic?tab=repositories&sort=stargazers) | [Check out my website](https://andrejanesic.com)
