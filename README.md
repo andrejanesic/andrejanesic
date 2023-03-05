@@ -24,6 +24,6 @@ Currently completing my Comp Sci Bachelor's degree, with a focus on Data Science
 
 * [iDiary](https://github.com/andrejanesic/iDiary) > User-friendly app for keeping track of habits, fitness, body and nutrition.
 
-<h3>Check out all of my projects below 👇<h3>
+<h3>Check out all of my projects below 👇</h3>
 
 If you want to work together, [get in touch here.](https://andrejanesic.com)
