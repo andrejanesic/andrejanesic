@@ -22,10 +22,16 @@ Developing software as **PS Software Engineer I** at **NCR Voyix** by day.
 
 Computer science graduate by night.
 
-I'm best at:
+So far I have...
 
-- Microservices architecture engineering
-- Developing maintainable codebases
-- Deep learning & LLM integration
+💳 Built APIs **powering 1,000s of hospitality payments every day** across Western Europe
+
+📊 Optimized application workloads with **10x performance improvements**
+
+🤖 Developed machine learning-based **supply chain analysis solutions**
+
+🚚 Created **event-driven**, distributed e-commerce & inventory management **microservices**
+
+🖥️ Provisioned **full application stacks**: bare-metal to front-end
 
 ### [Connect on LinkedIn](https://www.linkedin.com/in/andrejanesic)
